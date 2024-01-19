@@ -128,3 +128,8 @@ width: 250px;
     text-decoration: none;
     padding-bottom:5px;
 }
+.category_heading{
+    font-weight: bold;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
